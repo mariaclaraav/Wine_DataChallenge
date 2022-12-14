@@ -1,4 +1,7 @@
-# Wine_DataChallenge from https://archive.ics.uci.edu/ml/datasets/wine+quality
+# Wine_DataChallenge 
+
+Data from: https://archive.ics.uci.edu/ml/datasets/wine+quality
+
 
 Goal: predict the quality of each wine sample, which can be low, medium, or high
 -Low for less or equal to 5
